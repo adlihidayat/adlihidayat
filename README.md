@@ -32,8 +32,8 @@ a creative web developer passionate about</br>building dynamic and user-friendly
 </br></br></br>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRnaHJkdjZ4Y3E2M2ZmYWJheXR2NG9meW1sZ3k4MWg5Zmsza2Y1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBTxCPUwfC6ddBsTbs/giphy.webp" alt="animated gif" width="333" height="195"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhoM3JhbGl1emY2eHZ2MG5yYmdzNzVuZTZiOHdyZ2tldGw3ZDZjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" alt="animated gif" width="333" height="195"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNrcHZtdXh5Ync4MmZ4dGlxbGdndTV4YXYwMmF0bGR0dmp2Ynd6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eTIeuoBDbkxjloM5yV/giphy.webp" alt="animated gif" width="333" height="195"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRnaHJkdjZ4Y3E2M2ZmYWJheXR2NG9meW1sZ3k4MWg5Zmsza2Y1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBTxCPUwfC6ddBsTbs/giphy.webp" alt="animated gif" width="233" height="195"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhoM3JhbGl1emY2eHZ2MG5yYmdzNzVuZTZiOHdyZ2tldGw3ZDZjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" alt="animated gif" width="233" height="195"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNrcHZtdXh5Ync4MmZ4dGlxbGdndTV4YXYwMmF0bGR0dmp2Ynd6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eTIeuoBDbkxjloM5yV/giphy.webp" alt="animated gif" width="233" height="195"/>
 </div>
 
