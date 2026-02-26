@@ -1,5 +1,5 @@
 <h1 align="center">
-a creative web developer passionate about</br>building dynamic and user-friendly web applications</br>that enhance the online experience.
+Building Production AI Systems for Real Business Impact.
 </h1>
 
 <div align="center">
